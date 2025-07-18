@@ -2,16 +2,16 @@
 
 // Development Connection
 // Server name or IP Address
-$host = "localhost";
+$host = "sql12.freesqldatabase.com";
 
 // MySQL Username
-$user = "root";
+$user = "sql12790607";
 
 // MySQL Password
-$pass = "";
+$pass = "idkAqfcDwn";
 
 // Default Database name
-$db = "news-portal";
+$db = "sql12790607";
 
 // Creating a connection to the DataBase
 $con = mysqli_connect($host,$user,$pass,$db);
